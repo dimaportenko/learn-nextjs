@@ -1,5 +1,6 @@
 {
   "commands": {
-    "dev": "npm run dev"
+    "dev": "npm run dev",
+    "seed": "npm run seed"
    }
 }
